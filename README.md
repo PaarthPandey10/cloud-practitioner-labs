@@ -116,6 +116,9 @@ Under the following terms:
 
 ---
 
-> Author: [Paarth Pandey](https://github.com/paarthpandey10)  
->  
+> Author: [Paarth Pandey](https://github.com/paarthpandey10)
+> 
+> **Note:** All labs in this repository are based on the official AWS Cloud Quest: Cloud Practitioner program.  
+> Screenshots and flows are reused respectfully for learning and documentation purposes only.
+>
 > AWS Cloud Quest: Cloud Practitioner
