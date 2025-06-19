@@ -10,11 +10,10 @@ To host a basic static website using Amazon S3 by enabling static hosting, renam
 
 ---
 
-## Important
+## Disclaimer
 
-The screenshots provided in this walkthrough are taken from AWS's official guide in Cloud Quest. 
-This is due to the fact that I already completed the lab before the creation of this repo and did not take screenshots for this walkthrough at that time. 
-AWS Cloud Practitioner edition does not allow recreation of practice lab a second time. 
+The screenshots and lab flow included in this walkthrough are sourced from the official AWS Cloud Quest: Cloud Practitioner platform.  
+They are used here strictly for educational purposes, to document and demonstrate hands-on progress in AWS services.
 
 ---
 
