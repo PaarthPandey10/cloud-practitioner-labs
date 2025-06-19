@@ -28,9 +28,22 @@ Each lab explores foundational AWS services like EC2, S3, VPC, IAM, RDS, DynamoD
 ```
 cloud-practitioner-labs/
 ├── a1-static-web-hosting/
-│ └── README.md
+│   ├── README.md
+│   ├── a1-walkthrough.md
+│   <!---└── screenshots/
+│       ├── 1-create-bucket.png
+│       ├── 2-enable-hosting.png
+│       └── 3-website-test.png-->
 ├── a2-launch-ec2-instance/
-│ └── README.md
+│   ├── README.md
+│   ├── a2-walkthrough.md
+│   <!---└── screenshots/
+│       ├── 1-compare-instances.png
+│       ├── 2-launch-t3micro.png
+│       └── 3-browser-access.png-->
+├── LICENSE
+└── README.md
+
 ```
 <!---
 ├── A3-connect-to-ec2/
