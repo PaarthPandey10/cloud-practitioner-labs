@@ -27,39 +27,78 @@ Each lab explores foundational AWS services like EC2, S3, VPC, IAM, RDS, DynamoD
 ## Project Structure
 ```
 cloud-practitioner-labs/
-├── a1-static-web-hosting/
+├── a01-static-web-hosting/
 │   ├── README.md
-│   ├── a1-walkthrough.md
+│   ├── a01-walkthrough.md
 │   └── screenshots/
-│       ├── 00-plan-overview.png
-│       ├── 01-s3-console.png
-│       ├── 02-rename-file.png
-│       ├── 03-enable-static-web-hosting.png
-│       ├── 04-test-website.png
-│       ├── 05-validate-assignment.png
-│       └── README.md
+│       ├── 0-plan-overview.png
+│       ├── 1-s3-console.png
+│       ├── 2-rename-file.png
+│       ├── 3-enable-static-web-hosting.png
+│       ├── 4-test-website.png
+│       └── 5-validate-assignment.png
 │
-├── a2-launch-ec2-instance/
+├── a02-launch-ec2-instance/
 │   ├── README.md
-│   ├── a2-walkthrough.md
+│   ├── a02-walkthrough.md
 │   └── screenshots/
-│       ├── 00-plan-overview.png
-│       ├── 01-s3-console.png
-│       ├── 02-download-data.png
-│       ├── 03-ec2-console.png
-│       ├── 04-ec2-config-1.png
-│       ├── 05-ec2-config-2.png
-│       ├── 06-ec2-config-3.png
-│       ├── 07-ec2-config-4.png
-│       ├── 08-ec2-config-5.png
-│       ├── 09-ec2-user-data.png
+│       ├── 0-plan-overview.png
+│       ├── 1-s3-console.png
+│       ├── 2-download-data.png
+│       ├── 3-ec2-console.png
+│       ├── 4-ec2-config-1.png
+│       ├── 5-ec2-config-2.png
+│       ├── 6-ec2-config-3.png
+│       ├── 7-ec2-config-4.png
+│       ├── 8-ec2-config-5.png
+│       ├── 9-ec2-user-data.png
 │       ├── 10-launched-ec2.png
 │       ├── 11-ec2-running.png
-│       ├── 12-validated.png
-│       └── README.md
+│       └── 12-validated.png
 │
-├── LICENSE
-└── README.md
+├── a03-scale-ec2-instance/
+│   ├── README.md
+│   ├── a03-walkthrough.md
+│   └── screenshots/
+│       ├── 00-plan-overview.png
+│       ├── 01-aws-console.png
+│       ├── 02-ec2-console.png
+│       ├── 03-filter-instance-types.png
+│       ├── 04-instance-running.png
+│       ├── 05-ec2-instance-connect-ssh.png
+│       ├── 06-connected-ec2-instance-cli.png
+│       ├── 07-instance-settings-edit-user-data.png
+│       ├── 08-stop-instance.png
+│       ├── 09-start-instance.png
+│       ├── 10-stop-instance-change-type.png
+│       ├── 11-change-type-console.png
+│       ├── 12-type-changed.png
+│       ├── 13-new-type-running.png
+│       └── 14-validated-diy.png
+│
+├── a04-secure-network/
+│   ├── README.md
+│   ├── a04-walkthrough.md
+│   └── screenshots/
+│       ├── 00-plan-overview.png
+│       ├── 01-ec2-console.png
+│       ├── 02-copy-web-server-instance-ip.png
+│       ├── 03-site-timeout.png
+│       ├── 04-instance-networking-console.png
+│       ├── 05-subnet-console.png
+│       ├── 06-subnet-routes-console.png
+│       ├── 07-edit-routes.png
+│       ├── 08-updated-routes.png
+│       ├── 09-security-group-console.png
+│       ├── 10-edit-rules.png
+│       ├── 11-updated-sg-console.png
+│       ├── 12-add-all-traffic-rule.png
+│       ├── 13-copy-updated-instance-ip.png
+│       ├── 14-test-ip.png
+│       ├── 15-db-sg-console.png
+│       ├── 16-edit-db-sg-rules.png
+│       └── 17-validated-diy.png
+
 
 
 ```
