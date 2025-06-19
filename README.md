@@ -31,18 +31,36 @@ cloud-practitioner-labs/
 │   ├── README.md
 │   ├── a1-walkthrough.md
 │   └── screenshots/
-│       ├── 1-create-bucket.png
-│       ├── 2-enable-hosting.png
-│       └── 3-website-test.png
+│       ├── 0-plan-overview.png
+│       ├── 1-s3-console.png
+│       ├── 2-rename-file.png
+│       ├── 3-enable-static-web-hosting.png
+│       ├── 4-test-website.png
+│       ├── 5-validate-assignment.png
+│       └── README.md
+│
 ├── a2-launch-ec2-instance/
 │   ├── README.md
 │   ├── a2-walkthrough.md
 │   └── screenshots/
-│       ├── 1-compare-instances.png
-│       ├── 2-launch-t3micro.png
-│       └── 3-browser-access.png
+│       ├── 0-plan-overview.png
+│       ├── 1-s3-console.png
+│       ├── 2-download-data.png
+│       ├── 3-ec2-console.png
+│       ├── 4-ec2-config-1.png
+│       ├── 5-ec2-config-2.png
+│       ├── 6-ec2-config-3.png
+│       ├── 7-ec2-config-4.png
+│       ├── 8-ec2-config-5.png
+│       ├── 9-ec2-user-data.png
+│       ├── 10-launched-ec2.png
+│       ├── 11-ec2-running.png
+│       ├── 12-validated.png
+│       └── README.md
+│
 ├── LICENSE
 └── README.md
+
 
 ```
 <!---
