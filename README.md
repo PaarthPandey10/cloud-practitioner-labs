@@ -27,10 +27,9 @@ Each lab explores foundational AWS services like EC2, S3, VPC, IAM, RDS, DynamoD
 ## Project Structure
 ```
 cloud-practitioner-labs/
-├── A1-static-web-hosting/
+├── a1-static-web-hosting/
 │ └── README.md
-
-├── A2-ec2-instance-launch/
+├── a2-launch-ec2-instance/
 │ └── README.md
 ```
 <!---
