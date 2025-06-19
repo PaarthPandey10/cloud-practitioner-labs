@@ -1,4 +1,4 @@
-# cloud-practitioner-labs
+# Cloud Practitioner Labs
 
 > Hands-on AWS assignments from Cloud Quest: Cloud Practitioner — building real cloud skills with real services.
 
