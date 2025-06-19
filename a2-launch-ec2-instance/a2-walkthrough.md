@@ -23,7 +23,7 @@ They are used here strictly for educational purposes, to document and demonstrat
 
 - Here is the plan overview from Cloud Quest.
 
-![Plan Overview](./screenshots/0-plan-overview.png)
+![Plan Overview](./screenshots/00-plan-overview.png)
 
 ---
 
@@ -33,7 +33,7 @@ They are used here strictly for educational purposes, to document and demonstrat
 - Go to the S3 dashboard.
 - Find object starting with "cloud-first-steps" and click on it.
 
-![S3 Console](./screenshots/1-s3-console.png)
+![S3 Console](./screenshots/01-s3-console.png)
 
 ---
 
@@ -42,7 +42,7 @@ They are used here strictly for educational purposes, to document and demonstrat
 - Locate user-data.txt
 - Download it. 
 
-![Download Data](./screenshots/2-download-data.png)
+![Download Data](./screenshots/02-download-data.png)
 
 ---
 
@@ -51,7 +51,7 @@ They are used here strictly for educational purposes, to document and demonstrat
 - Search and open the EC2 service from the AWS Console.
 - Click on 'Launch Instance'. 
 
-![EC2 Console](./screenshots/3-ec2-console.png)
+![EC2 Console](./screenshots/03-ec2-console.png)
 
 ---
 
@@ -60,7 +60,7 @@ They are used here strictly for educational purposes, to document and demonstrat
 - Give a server name eg: webserver01.
 - Select 'Amazon Linux' in AMI.
 
-![Config 1](./screenshots/4-ec2-config-1.png)
+![Config 1](./screenshots/04-ec2-config-1.png)
 
 ---
 
@@ -69,7 +69,7 @@ They are used here strictly for educational purposes, to document and demonstrat
 - Scroll down with other settings as default. 
 - Compare instance types if needed (I did t2.micro vs t3.micro).
 
-![Config 2](./screenshots/5-ec2-config-2.png)
+![Config 2](./screenshots/05-ec2-config-2.png)
 
 ---
 
@@ -79,7 +79,7 @@ They are used here strictly for educational purposes, to document and demonstrat
 - Select 'Proceed without a key pair (Not recommended)'.
 - Scroll to Network Settings and click 'Edit'. 
 
-![Config 3](./screenshots/6-ec2-config-3.png)
+![Config 3](./screenshots/06-ec2-config-3.png)
 
 ---
 
@@ -91,7 +91,7 @@ They are used here strictly for educational purposes, to document and demonstrat
 - Provide a description.
 - Select Type as HTTP.
 
-![Config 4](./screenshots/7-ec2-config-4.png)
+![Config 4](./screenshots/07-ec2-config-4.png)
 
 ---
 
@@ -99,7 +99,7 @@ They are used here strictly for educational purposes, to document and demonstrat
 
 - Add the downloaded User Data script under **Advanced > User Data**.
 
-![User Data](./screenshots/9-ec2-user-data.png)
+![User Data](./screenshots/09-ec2-user-data.png)
 
 ---
 
