@@ -23,14 +23,14 @@ They are used here strictly for educational purposes, to document and demonstrat
 
 - Here is the plan over view. 
 
-![Plan Overview](./screenshots/0-plan-overview.png)
+![Plan Overview](./screenshots/00-plan-overview.png)
 
 
 ### ✅ Step 1 – Open Amazon S3 from AWS Console
 
 - Search S3 in the search bar and click on it. 
 
-![Open Console](./screenshots/1-s3-console.png)
+![Open Console](./screenshots/01-s3-console.png)
 
 ---
 
@@ -39,7 +39,7 @@ They are used here strictly for educational purposes, to document and demonstrat
 - Find the object with a name starting with "website-bucket" and click on it. 
 - Find the file named "text.html" and rename it to "error.html".
 
-![Rename File](./screenshots/2-rename-file.png)
+![Rename File](./screenshots/02-rename-file.png)
 
 ---
 
@@ -52,7 +52,7 @@ They are used here strictly for educational purposes, to document and demonstrat
 - Specify error document as "error.html".
 - Save changed.
 
-![Static Website Hosting](./screenshots/3-enable-static-web-hosting.png)
+![Static Website Hosting](./screenshots/03-enable-static-web-hosting.png)
 
 
 ---
@@ -64,7 +64,7 @@ They are used here strictly for educational purposes, to document and demonstrat
 - Paste the copied link.
 - Your site is live.
 
-![Site Live](./screenshots/4-test-website.png)
+![Site Live](./screenshots/04-test-website.png)
 
 ---
 
@@ -74,7 +74,7 @@ They are used here strictly for educational purposes, to document and demonstrat
 - Rename index.html to waves.html.
 - Copy website-bucket name and paste in Cloud Quest validation text box.
 
-![Validated](./screenshots/5-validate-assignment.png)
+![Validated](./screenshots/05-validate-assignment.png)
 
 ---
 
