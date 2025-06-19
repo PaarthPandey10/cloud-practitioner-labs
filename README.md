@@ -30,17 +30,17 @@ cloud-practitioner-labs/
 ├── a1-static-web-hosting/
 │   ├── README.md
 │   ├── a1-walkthrough.md
-│   <!---└── screenshots/
+│   └── screenshots/
 │       ├── 1-create-bucket.png
 │       ├── 2-enable-hosting.png
-│       └── 3-website-test.png-->
+│       └── 3-website-test.png
 ├── a2-launch-ec2-instance/
 │   ├── README.md
 │   ├── a2-walkthrough.md
-│   <!---└── screenshots/
+│   └── screenshots/
 │       ├── 1-compare-instances.png
 │       ├── 2-launch-t3micro.png
-│       └── 3-browser-access.png-->
+│       └── 3-browser-access.png
 ├── LICENSE
 └── README.md
 
