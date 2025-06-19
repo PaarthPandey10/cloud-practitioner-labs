@@ -100,6 +100,13 @@ For any questions or feedback, reach out:
 **Paarth Pandey**  
 [LinkedIn](https://www.linkedin.com/in/paarth-pandey-13779529b/) | [GitHub](https://github.com/paarthpandey10) | paarthdxb@gmail.com
 
+---
+
+## Credits
+
+This lab is based on [AWS Cloud Quest: Cloud Practitioner](https://explore.skillbuilder.aws/learn/course/external/view/elearning/13415/aws-cloud-quest-cloud-practitioner), provided by AWS Skill Builder.  
+Visuals, objectives, and task flows belong to Amazon Web Services, Inc. and are used under fair use for personal learning documentation.
+
 —
 
 > Author: [Paarth Pandey](https://github.com/paarthpandey10)  
