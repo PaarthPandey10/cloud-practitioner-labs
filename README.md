@@ -98,7 +98,8 @@ cloud-practitioner-labs/
 │       ├── 15-db-sg-console.png
 │       ├── 16-edit-db-sg-rules.png
 │       └── 17-validated-diy.png
-
+├── LICENSE
+└── README.md
 
 
 ```
