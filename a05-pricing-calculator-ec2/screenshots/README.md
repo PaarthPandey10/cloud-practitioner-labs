@@ -1,4 +1,4 @@
-A5 – EC2 Pricing Calculator Screenshots
+# A5 – EC2 Pricing Calculator Screenshots
 
 > Visual reference for the EC2 pricing estimate lab.
 
