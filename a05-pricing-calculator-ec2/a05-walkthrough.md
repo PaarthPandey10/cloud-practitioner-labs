@@ -198,7 +198,6 @@ To configure an EC2 instance with specific requirements and estimate its monthly
 
 - This lab used AWS Skill Builder sandbox  
 - No billing is charged during this process  
-- No CLI, IAM, or manual JSON used  
 
 ---
 
