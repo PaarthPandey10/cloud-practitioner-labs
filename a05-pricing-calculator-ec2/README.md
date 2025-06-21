@@ -1,4 +1,4 @@
-A5 – EC2 Pricing Calculator
+# A5 – EC2 Pricing Calculator
 
 > Estimate EC2 instance pricing using AWS Pricing Calculator with detailed configuration steps.
 
