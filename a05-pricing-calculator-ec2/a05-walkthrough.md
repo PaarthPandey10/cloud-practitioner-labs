@@ -78,7 +78,7 @@ To configure an EC2 instance with specific requirements and estimate its monthly
 - Hours = 8
 - Minutes = 0
 
-![Config 2](./screenshots/14-ec2-config2.png)
+![Config 2](./screenshots/07-ec2-config2.png)
 
 - Under EC2 Instances, set:
 - vCPUs = 2
@@ -86,16 +86,16 @@ To configure an EC2 instance with specific requirements and estimate its monthly
 - Network performance = Any Network Performance
 - Then select the 't3.medium' instance type.
 
-![Config 3](./screenshots/14-ec2-config3.png)
+![Config 3](./screenshots/08-ec2-config3.png)
 
 - Under Payment options select 'On-demand'.
 
-![Config 4](./screenshots/14-ec2-config4.png)
+![Config 4](./screenshots/09-ec2-config4.png)
 
 - Review 'Other purchasing options' and calculations.
 - Click on estimated workload hours. 
 
-![Config 5](./screenshots/14-ec2-config5.png)
+![Config 5](./screenshots/10-ec2-config5.png)
 
 --- 
 
@@ -114,7 +114,7 @@ To configure an EC2 instance with specific requirements and estimate its monthly
 - IOPS = 30
 - Storage amount = 10 GB
 
-![Config 6](./screenshots/14-ec2-config8.png)
+![Config 6](./screenshots/12-ec2-config8.png)
 
 - Scroll down to find and set:
 - Snapshot Frequency = Weekly
@@ -124,7 +124,7 @@ To configure an EC2 instance with specific requirements and estimate its monthly
 - Amount = 1
 - Data Amount = TB per month
 
-![Config 7](./screenshots/14-ec2-config8.png)
+![Config 7](./screenshots/13-ec2-config8.png)
 
 - Under Outbound Data Transfer, set:
 - Data transfer to = Internet (0...)
