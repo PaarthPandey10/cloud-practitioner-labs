@@ -114,7 +114,7 @@ To configure an EC2 instance with specific requirements and estimate its monthly
 - IOPS = 30
 - Storage amount = 10 GB
 
-![Config 6](./screenshots/12-ec2-config8.png)
+![Config 6](./screenshots/12-ec2-config6.png)
 
 - Scroll down to find and set:
 - Snapshot Frequency = Weekly
@@ -124,7 +124,7 @@ To configure an EC2 instance with specific requirements and estimate its monthly
 - Amount = 1
 - Data Amount = TB per month
 
-![Config 7](./screenshots/13-ec2-config8.png)
+![Config 7](./screenshots/13-ec2-config7.png)
 
 - Under Outbound Data Transfer, set:
 - Data transfer to = Internet (0...)
