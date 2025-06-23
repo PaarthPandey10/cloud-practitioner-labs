@@ -29,7 +29,7 @@ Each lab explores foundational AWS services like EC2, S3, VPC, IAM, RDS, DynamoD
 cloud-practitioner-labs/
 ├── a01-static-web-hosting/
 │   ├── README.md
-│   ├── a01-walkthrough.md
+│   ├── a01-visual-guide.md
 │   └── screenshots/
 │       ├── 0-plan-overview.png
 │       ├── 1-s3-console.png
@@ -40,7 +40,7 @@ cloud-practitioner-labs/
 │
 ├── a02-launch-ec2-instance/
 │   ├── README.md
-│   ├── a02-walkthrough.md
+│   ├── a02-visual-guide.md
 │   └── screenshots/
 │       ├── 0-plan-overview.png
 │       ├── 1-s3-console.png
@@ -58,7 +58,7 @@ cloud-practitioner-labs/
 │
 ├── a03-scale-ec2-instance/
 │   ├── README.md
-│   ├── a03-walkthrough.md
+│   ├── a03-visual-guide.md
 │   └── screenshots/
 │       ├── 00-plan-overview.png
 │       ├── 01-aws-console.png
@@ -78,7 +78,7 @@ cloud-practitioner-labs/
 │
 ├── a04-secure-network/
 │   ├── README.md
-│   ├── a04-walkthrough.md
+│   ├── a04-visual-guide.md
 │   └── screenshots/
 │       ├── 00-plan-overview.png
 │       ├── 01-ec2-console.png
@@ -99,22 +99,63 @@ cloud-practitioner-labs/
 │       ├── 16-edit-db-sg-rules.png
 │       └── 17-validated-diy.png
 │
+├── a05-pricing-calculator-ec2/
+│   ├── README.md
+│   ├── a05-visual-guide.md
+│   └── screenshots/
+│       ├── 00-plan-overview.png
+│       ├── 01-pricing-calc.png
+│       ├── 02-pricing-calc-console.png
+│       ├── 03-create-group.png
+│       ├── 04-added-group.png
+│       ├── 05-find-ec2.png
+│       ├── 06-ec2-config.png
+│       ├── 07-ec2-config2.png
+│       ├── 08-ec2-config3.png
+│       ├── 09-ec2-config4.png
+│       ├── 10-ec2-config5.png
+│       ├── 11-ec2-estimated-plan.png
+│       ├── 12-ec2-config6.png
+│       ├── 13-ec2-config7.png
+│       ├── 14-ec2-config8.png
+│       ├── 15-added-ec2-estimate.png
+│       ├── 16-review-dev-support.png
+│       ├── 17-share-estimate.png
+│       ├── 18-edit-ec2.png
+│       ├── 19-change-type.png
+│       ├── 20-share-updated.png
+│       └── 21-validated-diy.png
+│
+├── a06-create-rds-instance/
+│   ├── README.md
+│   ├── a06-visual-guide.md
+│   └── screenshots/
+│       ├── 00-plan-overview.png
+│       ├── 01-click-ami-catalog-in-ec2-console.png
+│       ├── 02-review-sql-search.png
+│       ├── 03-review-database-search-click-aurora&rds.png
+│       ├── 04-aurora&rds-console-create-database.png
+│       ├── 05-database-config1.png
+│       ├── 06-database-config2.png
+│       ├── 07-database-config3.png
+│       ├── 08-database-config4.png
+│       ├── 09-database-config5.png
+│       ├── 10-database-config6.png
+│       ├── 11-database-config7.png
+│       ├── 12-database-config8.png
+│       ├── 13-database-config9.png
+│       ├── 14-database-instance-created.png
+│       ├── 15-review-database-actions.png
+│       ├── 16-recommendations-database-migration-console.png
+│       ├── 17-review-dms-options.png
+│       ├── 18-create-actions-click-read-replica.png
+│       ├── 19-read-replica-config.png
+│       ├── 20-read-replica-created.png
+│       └── 21-validated-diy.png
+│
 ├── LICENSE
 └── README.md
-
-
 ```
-<!---
-├── A3-connect-to-ec2/
-│ └── README.md
-├── A4-vpc-internet-access/
-│ └── README.md
-├── A5-pricing-calculator/
-│ └── README.md
-├── A6-vpc-peering/
-│ └── README.md
---->
-
 ---
 
 ## Usage / How to Use
