@@ -29,4 +29,4 @@ For any questions or feedback, reach out:
 
 > Author: [Paarth Pandey](https://github.com/paarthpandey10)  
 >  
-> Google Cloud Practitioner Labs – Lab 6
+> AWS Cloud Quest: Cloud Practitioner
