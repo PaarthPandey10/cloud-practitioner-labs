@@ -25,5 +25,6 @@ This lab shows how to provision Amazon Elastic File System (EFS) to share data a
 [LinkedIn](https://www.linkedin.com/in/paarth-pandey-13779529b/) | [GitHub](https://github.com/paarthpandey10) | paarthdxb@gmail.com
 
 —
-> Author: [Paarth Pandey](https://github.com/paarthpandey10)  
+> Author: [Paarth Pandey](https://github.com/paarthpandey10)
+> 
 > AWS Cloud Quest: Cloud Practitioner
