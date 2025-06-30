@@ -1,4 +1,4 @@
-# Visual Guide – A2: Launch EC2 Instance
+# Visual Guide – A2: Cloud First Steps
 
 > Launch and configure EC2 instances with custom user data and verify deployment from a web browser.
 
