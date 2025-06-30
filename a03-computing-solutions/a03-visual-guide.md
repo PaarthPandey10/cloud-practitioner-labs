@@ -1,4 +1,4 @@
-# Visual Guide – A3: Scale EC2 Instance
+# Visual Guide – A3: Computing Solutions
 
 > Modify and scale an EC2 instance by changing its instance type and verifying new configuration.
 
