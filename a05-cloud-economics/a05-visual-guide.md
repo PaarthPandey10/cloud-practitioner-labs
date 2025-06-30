@@ -1,4 +1,4 @@
-# Visual Guide – A5: EC2 Pricing Calculator
+# Visual Guide – A5: Cloud Economics
 
 > Step-by-step screenshots for estimating EC2 instance costs using AWS Pricing Calculator.
 
@@ -8,133 +8,133 @@
 
 ### ✅ Step 0
 
-![Step 0](./screenshots/00-plan-overview.png)
+![Step 0](./screenshots/00.png)
 
 ---
 
 ### ✅ Step 1
 
-![Step 1](./screenshots/01-pricing-calc.png)
+![Step 1](./screenshots/01.png)
 
 ---
 
 ### ✅ Step 2
 
-![Step 2](./screenshots/02-pricing-calc-console.png)
+![Step 2](./screenshots/02.png)
 
 ---
 
 ### ✅ Step 3
 
-![Step 3](./screenshots/03-create-group.png)
+![Step 3](./screenshots/03.png)
 
 ---
 
 ### ✅ Step 4
 
-![Step 4](./screenshots/04-added-group.png)
+![Step 4](./screenshots/04.png)
 
 ---
 
 ### ✅ Step 5
 
-![Step 5](./screenshots/05-find-ec2.png)
+![Step 5](./screenshots/05.png)
 
 ---
 
 ### ✅ Step 6
 
-![Step 6](./screenshots/06-ec2-config.png)
+![Step 6](./screenshots/06.png)
 
 ---
 
 ### ✅ Step 7
 
-![Step 7](./screenshots/07-ec2-config2.png)
+![Step 7](./screenshots/07.png)
 
 ---
 
 ### ✅ Step 8
 
-![Step 8](./screenshots/08-ec2-config3.png)
+![Step 8](./screenshots/08.png)
 
 ---
 
 ### ✅ Step 9
 
-![Step 9](./screenshots/09-ec2-config4.png)
+![Step 9](./screenshots/09.png)
 
 ---
 
 ### ✅ Step 10
 
-![Step 10](./screenshots/10-ec2-config5.png)
+![Step 10](./screenshots/10.png)
 
 ---
 
 ### ✅ Step 11
 
-![Step 11](./screenshots/11-ec2-estimated-plan.png)
+![Step 11](./screenshots/11.png)
 
 ---
 
 ### ✅ Step 12
 
-![Step 12](./screenshots/12-ec2-config6.png)
+![Step 12](./screenshots/12.png)
 
 ---
 
 ### ✅ Step 13
 
-![Step 13](./screenshots/13-ec2-config7.png)
+![Step 13](./screenshots/13.png)
 
 ---
 
 ### ✅ Step 14
 
-![Step 14](./screenshots/14-ec2-config8.png)
+![Step 14](./screenshots/14.png)
 
 ---
 
 ### ✅ Step 15
 
-![Step 15](./screenshots/15-added-ec2-estimate.png)
+![Step 15](./screenshots/15.png)
 
 ---
 
 ### ✅ Step 16
 
-![Step 16](./screenshots/16-review-dev-support.png)
+![Step 16](./screenshots/16.png)
 
 ---
 
 ### ✅ Step 17
 
-![Step 17](./screenshots/17-share-estimate.png)
+![Step 17](./screenshots/17.png)
 
 ---
 
 ### ✅ Step 18
 
-![Step 18](./screenshots/18-edit-ec2.png)
+![Step 18](./screenshots/18.png)
 
 ---
 
 ### ✅ Step 19
 
-![Step 19](./screenshots/19-change-type.png)
+![Step 19](./screenshots/19.png)
 
 ---
 
 ### ✅ Step 20
 
-![Step 20](./screenshots/20-share-updated.png)
+![Step 20](./screenshots/20.png)
 
 ---
 
 ### ✅ Step 21
 
-![Step 21](./screenshots/21-validated-diy.png)
+![Step 21](./screenshots/21.png)
 
 ---
 
@@ -168,5 +168,6 @@ Visuals and content belong to AWS, used here under fair use for educational docu
 
 —
 
-> Author: [Paarth Pandey](https://github.com/paarthpandey10)  
+> Author: [Paarth Pandey](https://github.com/paarthpandey10)
+> 
 > AWS Cloud Quest: Cloud Practitioner
