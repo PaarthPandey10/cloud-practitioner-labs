@@ -1,4 +1,4 @@
-# A6 – Create RDS Instance Screenshots
+# A6 – Databases In Practice Screenshots
 
 > Visual reference for the RDS instance and read replica lab.
 
