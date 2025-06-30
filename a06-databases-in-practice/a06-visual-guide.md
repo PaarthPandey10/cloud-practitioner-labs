@@ -1,4 +1,4 @@
-# Visual Guide – A6: Create RDS Instance
+# Visual Guide – A6: Databases in Practice
 
 > Step-by-step screenshots for provisioning an Aurora database and a read replica using Amazon RDS.
 
@@ -8,133 +8,133 @@
 
 ### ✅ Step 0
 
-![Step 0](./screenshots/00-plan-overview.png)
+![Step 0](./screenshots/00.png)
 
 ---
 
 ### ✅ Step 1
 
-![Step 1](./screenshots/01-click-ami-catalog-in-ec2-console.png)
+![Step 1](./screenshots/01.png)
 
 ---
 
 ### ✅ Step 2
 
-![Step 2](./screenshots/02-review-sql-search.png)
+![Step 2](./screenshots/02.png)
 
 ---
 
 ### ✅ Step 3
 
-![Step 3](./screenshots/03-review-database-search-click-aurora&rds.png)
+![Step 3](./screenshots/03.png)
 
 ---
 
 ### ✅ Step 4
 
-![Step 4](./screenshots/04-aurora&rds-console-create-database.png)
+![Step 4](./screenshots/04.png)
 
 ---
 
 ### ✅ Step 5
 
-![Step 5](./screenshots/05-database-config1.png)
+![Step 5](./screenshots/05.png)
 
 ---
 
 ### ✅ Step 6
 
-![Step 6](./screenshots/06-database-config2.png)
+![Step 6](./screenshots/06.png)
 
 ---
 
 ### ✅ Step 7
 
-![Step 7](./screenshots/07-database-config3.png)
+![Step 7](./screenshots/07.png)
 
 ---
 
 ### ✅ Step 8
 
-![Step 8](./screenshots/08-database-config4.png)
+![Step 8](./screenshots/08.png)
 
 ---
 
 ### ✅ Step 9
 
-![Step 9](./screenshots/09-database-config5.png)
+![Step 9](./screenshots/09.png)
 
 ---
 
 ### ✅ Step 10
 
-![Step 10](./screenshots/10-database-config6.png)
+![Step 10](./screenshots/10.png)
 
 ---
 
 ### ✅ Step 11
 
-![Step 11](./screenshots/11-database-config7.png)
+![Step 11](./screenshots/11.png)
 
 ---
 
 ### ✅ Step 12
 
-![Step 12](./screenshots/12-database-config8.png)
+![Step 12](./screenshots/12.png)
 
 ---
 
 ### ✅ Step 13
 
-![Step 13](./screenshots/13-database-config9.png)
+![Step 13](./screenshots/13.png)
 
 ---
 
 ### ✅ Step 14
 
-![Step 14](./screenshots/14-database-instance-created.png)
+![Step 14](./screenshots/14.png)
 
 ---
 
 ### ✅ Step 15
 
-![Step 15](./screenshots/15-review-database-actions.png)
+![Step 15](./screenshots/15.png)
 
 ---
 
 ### ✅ Step 16
 
-![Step 16](./screenshots/16-recommendations-database-migration-console.png)
+![Step 16](./screenshots/16.png)
 
 ---
 
 ### ✅ Step 17
 
-![Step 17](./screenshots/17-review-dms-options.png)
+![Step 17](./screenshots/17.png)
 
 ---
 
 ### ✅ Step 18
 
-![Step 18](./screenshots/18-create-actions-click-read-replica.png)
+![Step 18](./screenshots/18.png)
 
 ---
 
 ### ✅ Step 19
 
-![Step 19](./screenshots/19-read-replica-config.png)
+![Step 19](./screenshots/19.png)
 
 ---
 
 ### ✅ Step 20
 
-![Step 20](./screenshots/20-read-replica-created.png)
+![Step 20](./screenshots/20.png)
 
 ---
 
 ### ✅ Step 21
 
-![Step 21](./screenshots/21-validated-diy.png)
+![Step 21](./screenshots/21.png)
 
 ---
 
