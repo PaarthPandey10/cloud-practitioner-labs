@@ -1,4 +1,4 @@
-# A6 - Create RDS Instance
+# A6 - Databases In Practice
 
 > Creating and configuring an Amazon RDS database instance and a read replica.
 
