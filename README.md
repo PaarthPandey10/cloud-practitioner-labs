@@ -30,6 +30,7 @@ cloud-practitioner-labs/
 ├── a01-cloud-computing-essentials/
 │   ├── README.md
 │   ├── a01-visual-guide.md
+|   └── screenshots/
 │
 ├── a02-cloud-first-steps/
 │   ├── README.md
