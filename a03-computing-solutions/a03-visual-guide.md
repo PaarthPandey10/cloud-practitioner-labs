@@ -8,91 +8,91 @@
 
 ### ✅ Step 0
 
-![Step 0](./screenshots/00-plan-overview.png)
+![Step 0](./screenshots/00.png)
 
 ---
 
 ### ✅ Step 1
 
-![Step 1](./screenshots/01-aws-console.png)
+![Step 1](./screenshots/01.png)
 
 ---
 
 ### ✅ Step 2
 
-![Step 2](./screenshots/02-ec2-console.png)
+![Step 2](./screenshots/02.png)
 
 ---
 
 ### ✅ Step 3
 
-![Step 3](./screenshots/03-filter-instance-types.png)
+![Step 3](./screenshots/03.png)
 
 ---
 
 ### ✅ Step 4
 
-![Step 4](./screenshots/04-instance-running.png)
+![Step 4](./screenshots/04.png)
 
 ---
 
 ### ✅ Step 5
 
-![Step 5](./screenshots/05-ec2-instance-connect-ssh.png)
+![Step 5](./screenshots/05.png)
 
 ---
 
 ### ✅ Step 6
 
-![Step 6](./screenshots/06-connected-ec2-instance-cli.png)
+![Step 6](./screenshots/06.png)
 
 ---
 
 ### ✅ Step 7
 
-![Step 7](./screenshots/07-instance-settings-edit-user-data.png)
+![Step 7](./screenshots/07.png)
 
 ---
 
 ### ✅ Step 8
 
-![Step 8](./screenshots/08-stop-instance.png)
+![Step 8](./screenshots/08.png)
 
 ---
 
 ### ✅ Step 9
 
-![Step 9](./screenshots/09-start-instance.png)
+![Step 9](./screenshots/09.png)
 
 ---
 
 ### ✅ Step 10
 
-![Step 10](./screenshots/10-stop-instance-change-type.png)
+![Step 10](./screenshots/10.png)
 
 ---
 
 ### ✅ Step 11
 
-![Step 11](./screenshots/11-change-type-console.png)
+![Step 11](./screenshots/11.png)
 
 ---
 
 ### ✅ Step 12
 
-![Step 12](./screenshots/12-type-changed.png)
+![Step 12](./screenshots/12.png)
 
 ---
 
 ### ✅ Step 13
 
-![Step 13](./screenshots/13-new-type-running.png)
+![Step 13](./screenshots/13.png)
 
 ---
 
 ### ✅ Step 14
 
-![Step 14](./screenshots/14-validated-diy.png)
+![Step 14](./screenshots/14.png)
 
 ---
 
