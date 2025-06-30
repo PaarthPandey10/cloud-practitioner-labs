@@ -1,4 +1,4 @@
-# Visual Guide – A4: Secure Network
+# Visual Guide – A4: Networking Concepts
 
 > Modify route tables and security groups to fix network issues for an EC2-hosted web server.
 
@@ -8,109 +8,109 @@
 
 ### ✅ Step 0
 
-![Step 0](./screenshots/00-plan-overview.png)
+![Step 0](./screenshots/00.png)
 
 ---
 
 ### ✅ Step 1
 
-![Step 1](./screenshots/01-ec2-console.png)
+![Step 1](./screenshots/01.png)
 
 ---
 
 ### ✅ Step 2
 
-![Step 2](./screenshots/02-copy-web-server-instance-ip.png)
+![Step 2](./screenshots/02.png)
 
 ---
 
 ### ✅ Step 3
 
-![Step 3](./screenshots/03-site-timeout.png)
+![Step 3](./screenshots/03.png)
 
 ---
 
 ### ✅ Step 4
 
-![Step 4](./screenshots/04-instance-networking-console.png)
+![Step 4](./screenshots/04.png)
 
 ---
 
 ### ✅ Step 5
 
-![Step 5](./screenshots/05-subnet-console.png)
+![Step 5](./screenshots/05.png)
 
 ---
 
 ### ✅ Step 6
 
-![Step 6](./screenshots/06-subnet-routes-console.png)
+![Step 6](./screenshots/06.png)
 
 ---
 
 ### ✅ Step 7
 
-![Step 7](./screenshots/07-edit-routes.png)
+![Step 7](./screenshots/07.png)
 
 ---
 
 ### ✅ Step 8
 
-![Step 8](./screenshots/08-updated-routes.png)
+![Step 8](./screenshots/08.png)
 
 ---
 
 ### ✅ Step 9
 
-![Step 9](./screenshots/09-security-group-console.png)
+![Step 9](./screenshots/09.png)
 
 ---
 
 ### ✅ Step 10
 
-![Step 10](./screenshots/10-edit-rules.png)
+![Step 10](./screenshots/10.png)
 
 ---
 
 ### ✅ Step 11
 
-![Step 11](./screenshots/11-updated-sg-console.png)
+![Step 11](./screenshots/11.png)
 
 ---
 
 ### ✅ Step 12
 
-![Step 12](./screenshots/12-add-all-traffic-rule.png)
+![Step 12](./screenshots/12.png)
 
 ---
 
 ### ✅ Step 13
 
-![Step 13](./screenshots/13-copy-updated-instance-ip.png)
+![Step 13](./screenshots/13.png)
 
 ---
 
 ### ✅ Step 14
 
-![Step 14](./screenshots/14-test-ip.png)
+![Step 14](./screenshots/14.png)
 
 ---
 
 ### ✅ Step 15
 
-![Step 15](./screenshots/15-db-sg-console.png)
+![Step 15](./screenshots/15.png)
 
 ---
 
 ### ✅ Step 16
 
-![Step 16](./screenshots/16-edit-db-sg-rules.png)
+![Step 16](./screenshots/16.png)
 
 ---
 
 ### ✅ Step 17
 
-![Step 17](./screenshots/17-validated-diy.png)
+![Step 17](./screenshots/17.png)
 
 ---
 
