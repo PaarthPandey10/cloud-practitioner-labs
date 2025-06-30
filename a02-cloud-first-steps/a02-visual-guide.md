@@ -117,3 +117,5 @@ Visuals, objectives, and task flows belong to Amazon Web Services, Inc. and are 
 —
 
 > Author: [Paarth Pandey](https://github.com/paarthpandey10)
+>
+> AWS Cloud Quest: Cloud Practitioner
