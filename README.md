@@ -60,6 +60,7 @@ cloud-practitioner-labs/
 ├── a07-connecting-vpcs/
 │   ├── README.md
 │   ├── a07-visual-guide.md
+|   └── screenshots/
 │
 ├── a08-first-no-sql-database/
 │   ├── README.md
