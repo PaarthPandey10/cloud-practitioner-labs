@@ -8,37 +8,37 @@
 
 ### ✅ Step 0
 
-![Step 0](./screenshots/00-plan-overview.png)
+![Step 0](./screenshots/00.png)
 
 ---
 
 ### ✅ Step 1
 
-![Step 1](./screenshots/01-s3-console.png)
+![Step 1](./screenshots/01.png)
 
 ---
 
 ### ✅ Step 2
 
-![Step 2](./screenshots/02-rename-file.png)
+![Step 2](./screenshots/02.png)
 
 ---
 
 ### ✅ Step 3
 
-![Step 3](./screenshots/03-enable-static-web-hosting.png)
+![Step 3](./screenshots/03.png)
 
 ---
 
 ### ✅ Step 4
 
-![Step 4](./screenshots/04-test-website.png)
+![Step 4](./screenshots/04.png)
 
 ---
 
 ### ✅ Step 5
 
-![Step 5](./screenshots/05-validate-assignment.png)
+![Step 5](./screenshots/05.png)
 
 ---
 
@@ -72,6 +72,4 @@ Visuals, objectives, and task flows belong to Amazon Web Services, Inc. and are 
 
 —
 
-> Author: [Paarth Pandey](https://github.com/paarthpandey10)  
->  
-> AWS Cloud Quest: Cloud Practitioner
+> Author: [Paarth Pandey](https://github.com/paarthpandey10)
