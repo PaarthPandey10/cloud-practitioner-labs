@@ -1,4 +1,4 @@
-# Visual Guide – A1: Static Web Hosting
+# Visual Guide – A1: Cloud Computing Essentials
 
 > Host a static website using Amazon S3 with public access and default settings.
 
