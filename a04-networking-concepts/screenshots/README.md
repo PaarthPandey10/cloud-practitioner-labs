@@ -1,4 +1,4 @@
-# Lab 4 Screenshots – Secure Network
+# A4 – Networking Concepts Screenshots
 
 > Screenshots showing how to troubleshoot network access by editing routes and security groups for an EC2 web server.
 

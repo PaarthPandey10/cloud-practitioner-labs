@@ -1,4 +1,4 @@
-# Lab 3 Screenshots – Scale EC2 Instance
+# A3 – Computing Solutions Screenshots
 
 > Screenshots documenting the steps to scale and reconfigure an EC2 instance using the AWS Console.
 

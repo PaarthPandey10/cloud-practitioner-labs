@@ -1,4 +1,4 @@
-# A2 – Launch EC2 Instance Screenshots
+# A2 – Cloud First Steps Screenshots
 
 > Visual documentation of launching EC2 instances via AWS Console and validating the setup.
 

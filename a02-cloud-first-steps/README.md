@@ -1,4 +1,4 @@
-# A2 – Launch EC2 Instance
+# A2 – Cloud First Steps
 
 > Launch EC2 instances using Amazon EC2 and configure basic access using public IP and HTTP.
 

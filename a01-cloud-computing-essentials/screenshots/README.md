@@ -1,4 +1,4 @@
-# A1 – Static Web Hosting Screenshots
+# A1 – Cloud Computing Essentials Screenshots
 
 > Visual reference for key steps taken during the S3 static website hosting lab.
 

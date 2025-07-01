@@ -1,4 +1,4 @@
-# A1 – Static Web Hosting
+# A1 – Cloud Computing Essentials
 
 > Host a basic static website using Amazon S3 and public access settings.
 

@@ -1,4 +1,4 @@
-# A4 – Secure Network
+# A4 – Networking Concepts
 
 > Configure secure networking for an EC2 instance using subnets, route tables, and security groups.
 

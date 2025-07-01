@@ -1,4 +1,4 @@
-# A3 – Scale EC2 Instance
+# A3 – Computing Solutions
 
 > Modify and scale an existing EC2 instance by changing its instance type and verifying the upgrade.
 
